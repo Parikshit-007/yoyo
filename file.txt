@@ -1,5 +1,5 @@
 Team Members:
-Dev1
+Dev1: Sanyam Jain
 Dev2: Ankit
-Dev3
+Dev3:Prerak
 Manager
